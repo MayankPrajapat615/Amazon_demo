@@ -1,6 +1,7 @@
 # 🛍️ Amazon Clone Website
 
 This is a front-end clone of the Amazon homepage created using **HTML** and **CSS**. The project mimics the layout and basic features of the original Amazon site to demonstrate UI design and responsive structure.
+Now making it as per India's AMAZON website.
 
 ## 📂 Folder Structure
 
