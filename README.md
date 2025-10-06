@@ -21,7 +21,7 @@ amazon-clone/ ├── index.html ├── style.css ├── images/ # Folde
 - CSS3
 - Font Awesome (for icons)
 
-Mayank
+Mayank prajapat
 Made with ❤️ by Mayank prajapat
 
 **This project is for educational and portfolio use only. It is not affiliated with or endorsed by Amazon.com.**
