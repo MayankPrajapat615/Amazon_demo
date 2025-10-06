@@ -13,7 +13,7 @@ amazon-clone/ ├── index.html ├── style.css ├── images/ # Folde
 - Responsive product grid with various categories.
 - Banner image (hero section).
 - Interactive UI with hover effects.
-- Footer section with helpful links.
+- Footer section with helpful links..
 
 ## 🛠️ Technologies Used
 
